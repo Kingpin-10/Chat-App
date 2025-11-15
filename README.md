@@ -1,24 +1,9 @@
 # 💬 Chat-App
 
+🚀 **Live Demo:** [https://chat-app-26h5.onrender.com](https://chat-app-26h5.onrender.com)
+
 A **real-time fullstack chat application** built using **React**, **Node.js**, **Express**, **MongoDB**, and **Socket.io**.  
 It supports user authentication, private messaging, and live updates — all in a clean, modern UI.
-
----
-
-## 🗂️ Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Folder Structure](#folder-structure)
-- [Setup Instructions](#setup-instructions)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Environment Variables](#environment-variables)
-- [Running the App](#running-the-app)
-- [Build & Deployment](#build--deployment)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -64,8 +49,3 @@ The repo is divided into **frontend** and **backend** directories for better org
 - JWT for Authentication
 - bcrypt.js for password hashing
 - dotenv for configuration
-
----
-
-## 📁 Folder Structure
-
